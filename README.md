@@ -10,10 +10,11 @@
 # Steps to run the app
 1. Clone the repository
 2. Run `npm install`
-3. CLone the server repository
+3. Clone the server repository
 4. Run `npm install`
 5. The server runs on port 4000
 6. The react app runs on port 3000
 7. The internal wireings are set up and you are ready to to see the workig application
 
-
+# Video Demo of the app
+https://drive.google.com/file/d/1oO_Y2V7scbLqSiqnsBdcGySdiMpGXNW4/view
